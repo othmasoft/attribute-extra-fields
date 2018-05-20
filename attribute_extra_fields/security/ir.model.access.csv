@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_attribute_extra_fields_attribute_extra_fields,attribute_extra_fields.attribute_extra_fields,model_attribute_extra_fields_attribute_extra_fields,,1,0,0,0
